@@ -242,3 +242,6 @@ class OrderService {
   }
 }
 ```
+
+> Basically "Factory Method" just adding one more layer to isolate business logic to calling infra directly. and make Business Logic not dependent with what infra going to used
+
